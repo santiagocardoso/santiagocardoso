@@ -9,8 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocardoso&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Santi-Hs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   <img align="center" alt="Santi-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Santi-Hs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   <img align="right" alt="Santi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966844399273246802/966924720329089024/Santi-pic.gif">
 </div>
   
