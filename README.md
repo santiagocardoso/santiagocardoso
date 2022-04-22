@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Santi-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Santi-Hs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
-  <img align="right" alt="Santi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966844399273246802/966935810811260958/Santi-pic.gif">
+  <img align="right" alt="Santi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/966844399273246802/967071630390087750/Santi-picgifblue.gif">
 </div>
   
 ##
