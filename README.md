@@ -1,7 +1,6 @@
 ### Oie eu sou o Santiago Cardoso!
 
 - 🌱 Estudando Ciência da Computação
-- 😄 Pronouns: ele/dele
 
 <div align="left">
   <a href="https://github.com/santiagocardoso">
