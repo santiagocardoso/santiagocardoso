@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagocardoso&show_icons=true&locale=en&layout=compact" alt="santiagocardoso" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagocardoso&show_icons=true&locale=en" alt="santiagocardoso" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagocardoso&" alt="santiagocardoso" /></p>
