@@ -1,9 +1,3 @@
-<h1 align="center">Oie 👋, meu nome é Santiago Cardoso</h1>
-<h3 align="center">Estudante de Ciência da Computação</h3>
-<img align="right" alt="Coding" width="300" src="https://images-ext-1.discordapp.net/external/OBdZDdclbvv7pAXgRq-5ZYiZ9Yywb4krhgnPRGFgZd4/https/i.picasion.com/pic92/bfb7c3b4fbd3fec7c4dd85cef1c1efde.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagocardoso&label=Profile%20views&color=0e75b6&style=flat" alt="santiagocardoso" /> </p>
-
 <p align="left"> <a href="https://twitter.com/santcar7" target="blank"><img src="https://img.shields.io/twitter/follow/santcar7?logo=twitter&style=for-the-badge" alt="santcar7" /></a> </p>
 
 - 🌱 Aprendendo **C**
@@ -37,6 +31,8 @@
 </div>
   
   ##
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagocardoso&label=Profile%20views&color=0e75b6&style=flat" alt="santiagocardoso" /> </p>
  
 <div> 
   <a href="https://instagram.com/santcar7" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
