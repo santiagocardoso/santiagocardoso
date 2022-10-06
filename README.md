@@ -1,5 +1,6 @@
 <h1 align="center">Oie 👋, meu nome é Santiago Cardoso</h1>
 <h3 align="center">Estudante de Ciência da Computação</h3>
+<img align="right" alt="Coding" width="400" src="https://images-ext-1.discordapp.net/external/OBdZDdclbvv7pAXgRq-5ZYiZ9Yywb4krhgnPRGFgZd4/https/i.picasion.com/pic92/bfb7c3b4fbd3fec7c4dd85cef1c1efde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagocardoso&label=Profile%20views&color=0e75b6&style=flat" alt="santiagocardoso" /> </p>
 
