@@ -13,9 +13,7 @@
   <img align="center" alt="Santi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> 
   <img align="center" alt="Santi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Santi-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"> 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/OBdZDdclbvv7pAXgRq-5ZYiZ9Yywb4krhgnPRGFgZd4/https/i.picasion.com/pic92/bfb7c3b4fbd3fec7c4dd85cef1c1efde.gif">
-  
-</div>
+  <img align="right" alt="Santi-pic" height="160" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/OBdZDdclbvv7pAXgRq-5ZYiZ9Yywb4krhgnPRGFgZd4/https/i.picasion.com/pic92/bfb7c3b4fbd3fec7c4dd85cef1c1efde.gif">
   
 </div>
   
