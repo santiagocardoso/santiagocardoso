@@ -1,4 +1,4 @@
-## Oie 👋 meu nome é Santiago Cardoso, sou estudante de Ciência da Computação!
+## Oie 👋 meu nome é Santiago Cardoso, sou estudante de Ciência da Computação na UDESC - CCT!
 <div align="center">
   <a href="https://github.com/santiagocardoso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagocardoso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
