@@ -18,6 +18,7 @@
   <img align="center" alt="Santi-Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" />
   
   ## Contact me:
+  
 <div>
 
   <a href = "mailto:santcar7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
