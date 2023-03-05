@@ -16,8 +16,6 @@
   <img align="center" alt="Santi-Haskell" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">
   
   ## Contact me:
-</div>
-
 <div>
 
   <a href = "mailto:santcar7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
