@@ -18,7 +18,9 @@
   <img align="center" alt="Santi-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Santi-Java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Santi-Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Santi-Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" /> <br>
+  <img align="center" alt="Santi-Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" /> <br> <br/>
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/santcar7.png" alt="TryHackMe">
   
   ## Contact me:
   
