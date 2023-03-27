@@ -21,7 +21,7 @@
   <img align="center" alt="Santi-Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" /> <br>
   
   <br/>
-  <img src="https://www.codewars.com/users/santiagocardoso/badges/large" alt="Codewars">
+  <img src="https://www.codewars.com/users/santiagocardoso/badges/small" alt="Codewars">
   <br/> <br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/santcar7.png" alt="TryHackMe">
   
