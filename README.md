@@ -36,7 +36,7 @@
   
   <img align="center" alt="Water" height="150" src="https://gifdb.com/images/high/aesthetic-anime-blue-sea-waves-mifyhkjxufwyss6a.gif"> <br/> <br/>
   
-  <img src="https://www.codewars.com/users/santiagocardoso/badges/large" alt="Codewars"> <br/> <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/santcar7.png" alt="TryHackMe"> <br/> <br/>
+  <img src="https://www.codewars.com/users/santiagocardoso/badges/micro" alt="Codewars"> <br/> <br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/santcar7.png" alt="TryHackMe"> <br/>
   
 </div>
