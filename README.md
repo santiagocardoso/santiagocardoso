@@ -32,5 +32,3 @@
   <a href="https://codeforces.com/profile/santi.cardoso" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
   
 </div>
-  
-  ![Snake animation](https://github.com/santiagocardoso/santiagocardoso/blob/output/github-contribution-grid-snake.svg)
