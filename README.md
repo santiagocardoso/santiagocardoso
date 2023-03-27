@@ -21,6 +21,9 @@
   <img align="center" alt="Santi-Ubuntu" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
   <img align="center" alt="Santi-Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Santi-Ubuntu" height="40" width="40" src="https://avatars.githubusercontent.com/u/4604537?s=200&v=4" /> <br>
+  <img align="center" alt="Santi-Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Santi-Godot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img align="center" alt="Santi-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
           
   ## Contact me:
 
