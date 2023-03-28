@@ -31,12 +31,11 @@
   <a href="https://codeforces.com/profile/santi.cardoso" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/santcar7" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 
-
 </div>
   
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Water" height="150" src="https://gifdb.com/images/high/aesthetic-anime-blue-sea-waves-mifyhkjxufwyss6a.gif"> <br/> <br/>
+  <img align="center" alt="Water" height="150" src="https://media.tenor.com/-cmYpQISGd8AAAAC/anime-water.gif"> <br/> <br/>
   
   <img src="https://www.codewars.com/users/santiagocardoso/badges/small" alt="Codewars"> <br/> <br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/santcar7.png" alt="TryHackMe"> <br/>
