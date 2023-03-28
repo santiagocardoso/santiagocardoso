@@ -35,7 +35,7 @@
   
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Water" height="150" src="https://media.tenor.com/hvF5VCXDX4kAAAAC/anime-anime-gif.gif"> <br/> <br/>
+  <img align="center" alt="Water" height="150" src="https://media.discordapp.net/attachments/754344992394182667/1090302028359667852/Sprite-scythe_ani.gif?width=595&height=595"> <br/> <br/>
   
   <img src="https://www.codewars.com/users/santiagocardoso/badges/small" alt="Codewars"> <br/> <br/>
   <img src="https://tryhackme-badges.s3.amazonaws.com/santcar7.png" alt="TryHackMe"> <br/>
