@@ -1,22 +1,22 @@
-```console
+```zsh
 # CTRL ALT T
 
-santiago@kalilinux:~$ whoami
+santiago@kali:~$ whoami
 santiago
 
-santiago@kalilinux:~$ ls -a
+santiago@kali:~$ ls -a
 . .. aboutme.txt studies.txt
  
-santiago@kalilinux:~$ cat aboutme
+santiago@kali:~$ cat aboutme
 Santiago, 20y/o
 ubuntu && kali user
 
-santiago@kalilinux:~$ cat studies
+santiago@kali:~$ cat studies
 c c++ python java linux
 competitive_programming
 cybersecurity
 
-santiago@kalilinux:~$ echo blue team >> studies
+santiago@kali:~$ echo blue team >> studies
 
-santiago@kalilinux:~$ exit▉
+santiago@kali:~$ exit▉
 ```
