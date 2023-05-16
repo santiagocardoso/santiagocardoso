@@ -50,6 +50,7 @@ santiago@kali:~/projects$ eof -f animation.gif
 ```
 <pre>
  # ~/animation.gif
+ 
  <img align="center" alt="Water" height="150" src="https://media.discordapp.net/attachments/754344992394182667/1090302028359667852/Sprite-scythe_ani.gif?width=595&height=595">
 </pre>
 
