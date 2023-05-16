@@ -1,4 +1,4 @@
-```zsh
+```console
 # CTRL ALT T
 
 santiago@kali:~$ whoami
