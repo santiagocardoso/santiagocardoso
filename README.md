@@ -11,9 +11,7 @@ santiago@kali:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
 ubuntu && kali user
 
-santiago@kali:~$ cd projects/
-
-santiago@kali:~/projects$ ls -a
+santiago@kali:~$ cd projects/ && ls -a
 . .. linguagens.jpg
 
 santiago@kali:~/projects$ shotwell linguagens.jpg
