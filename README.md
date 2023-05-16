@@ -47,5 +47,6 @@ santiago@kali:~$ cat contacts.txt
 
 ```console
 santiago@kali:~$ clear
+
 santiago@kali:~$ exit▉
 ```
