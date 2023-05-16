@@ -1,22 +1,22 @@
-<pre>
- <strong># CTRL ALT T</strong>
+```console
+# CTRL ALT T
 
- <strong>[santiago@kalilinux ~]$</strong> <em>whoami</em> 
- santiago
+santiago@kalilinux:~$ whoami
+santiago
 
- <strong>[santiago@kalilinux ~]$</strong> <em>ls -a</em>
- . .. aboutme.txt studies.txt
+santiago@kalilinux:~$ ls -a
+. .. aboutme.txt studies.txt
  
- <strong>[santiago@kalilinux ~]$</strong> <em>cat aboutme</em>
- Santiago, 20y/o
- ubuntu && kali user
- 
- <strong>[santiago@kalilinux ~]$</strong> <em>cat studies</em>
- c c++ python java linux
- competitive_programming
- cybersecurity
- 
- <strong>[santiago@kalilinux ~]$</strong> <em>echo blue team >> studies</em>
+santiago@kalilinux:~$ cat aboutme
+Santiago, 20y/o
+ubuntu && kali user
 
- <strong>[santiago@kalilinux ~]$</strong> <em>exit▉</em>
-</pre>
+santiago@kalilinux:~$ cat studies
+c c++ python java linux
+competitive_programming
+cybersecurity
+
+santiago@kalilinux:~$ echo blue team >> studies
+
+santiago@kalilinux:~$ exit▉
+```
