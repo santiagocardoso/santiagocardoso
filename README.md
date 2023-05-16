@@ -34,11 +34,16 @@ linux
 santiago@kali:~$ echo blue team >> studies.txt
 
 santiago@kali:~$ cat contacts.txt
-mailto:santcar7@gmail.com
-https://www.linkedin.com/in/santiagocardoso/
-https://tryhackme.com/p/santcar7/
-https://codeforces.com/profile/santi.cardoso/
-https://www.codewars.com/users/santiagocardoso/
+```
 
+<pre>
+ email: <a href="mailto:santcar7@gmail.com">santcar7@gmail.com</a>
+ linkedin: <a href="https://www.linkedin.com/in/santiagocardoso/" target="_blank">santiagocardoso</a>
+ tryhackme: <a href="https://tryhackme.com/p/santcar7/" target="_blank">santcar7</a>
+ codeforces: <a href="https://codeforces.com/profile/santi.cardoso/" target="_blank">santi.cardoso</a>
+ codewars: <a href="https://www.codewars.com/users/santiagocardoso/" target="_blank">santiagocardoso</a>
+</pre>
+
+```console
 santiago@kali:~$ exit▉
 ```
