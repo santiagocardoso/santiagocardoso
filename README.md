@@ -5,7 +5,7 @@ santiago@kali:~$ whoami
 santiago
 
 santiago@kali:~$ ls -a
-. .. aboutme.txt contacts.txt projects studies.txt
+. .. aboutme.txt contacts.txt projects studies.txt .vimrc .zshrc
  
 santiago@kali:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
@@ -46,5 +46,6 @@ santiago@kali:~$ cat contacts.txt
 </pre>
 
 ```console
+santiago@kali:~$ clear
 santiago@kali:~$ exit▉
 ```
