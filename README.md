@@ -5,7 +5,7 @@ santiago@kali:~$ whoami
 santiago
 
 santiago@kali:~$ ls -a
-. .. aboutme.txt contacts.txt projects studies.txt .vimrc .zshrc
+. .. aboutme.txt animation.gif contacts.txt projects studies.txt .vimrc .zshrc
  
 santiago@kali:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
@@ -14,7 +14,7 @@ ubuntu && kali user
 santiago@kali:~$ cd projects/ && ls -a
 . .. linguagens.jpg
 
-santiago@kali:~/projects$ shotwell linguagens.jpg
+santiago@kali:~/projects$ eof -f linguagens.jpg
 ```
 <pre>
  # ~/projects/linguagens.jpg
@@ -46,6 +46,15 @@ santiago@kali:~$ cat contacts.txt
 </pre>
 
 ```console
+santiago@kali:~/projects$ eof -f animation.gif
+```
+<pre>
+ # ~/animation.gif
+ <img align="center" alt="Water" height="150" src="https://media.discordapp.net/attachments/754344992394182667/1090302028359667852/Sprite-scythe_ani.gif?width=595&height=595">
+</pre>
+
+```console
+^C
 santiago@kali:~$ clear
 
 santiago@kali:~$ exit▉
