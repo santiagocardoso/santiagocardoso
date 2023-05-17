@@ -51,7 +51,7 @@ santiago@kali:~$ cd projects/ && eog -f animation.gif
 <pre>
  # ~/projects/animation.gif
  
- <img align="center" alt="Water" height="150" src="https://media.discordapp.net/attachments/754344992394182667/1090302028359667852/Sprite-scythe_ani.gif?width=595&height=595">
+ <img align="center" alt="Scythe" height="150" src="https://media.discordapp.net/attachments/754344992394182667/1090302028359667852/Sprite-scythe_ani.gif?width=595&height=595">
 </pre>
 
 ```console
