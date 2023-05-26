@@ -5,11 +5,11 @@ santiago@ubuntu:~$ whoami
 santiago
 
 santiago@ubuntu:~$ ls -a
-. .. aboutme.txt contacts.txt projects studies.txt .vimrc .bashrc
+. .. aboutme.txt .bashrc contacts.txt projects studies.txt .vimrc
  
 santiago@ubuntu:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
-ubuntu && kali user
+ubuntu user
 
 santiago@ubuntu:~$ cd projects/ && ls -a
 . .. animation.gif linguagens.png
@@ -27,12 +27,11 @@ santiago@ubuntu:~/projects$ eog -f linguagens.png
 santiago@ubuntu:~$ cd ..
 
 santiago@ubuntu:~$ cat studies.txt
-ia
 competitive_programming
 cybersecurity
 linux
 
-santiago@ubuntu:~$ echo blue team >> studies.txt
+santiago@ubuntu:~$ echo ai >> studies.txt
 
 santiago@ubuntu:~$ cat contacts.txt
 ```
@@ -40,10 +39,10 @@ santiago@ubuntu:~$ cat contacts.txt
 <pre>
  email: <a href="mailto:santcar7@gmail.com">santcar7@gmail.com</a>
  linkedin: <a href="https://www.linkedin.com/in/santiagocardoso/" target="_blank">santiagocardoso</a>
- tryhackme: <a href="https://tryhackme.com/p/santcar7/" target="_blank">santcar7</a>
- picoctf: <a href="https://play.picoctf.org/users/santiagocardoso" target="_blank">santiagocardoso</a>
  codeforces: <a href="https://codeforces.com/profile/santi.cardoso/" target="_blank">santi.cardoso</a>
  codewars: <a href="https://www.codewars.com/users/santiagocardoso/" target="_blank">santiagocardoso</a>
+ tryhackme: <a href="https://tryhackme.com/p/santcar7/" target="_blank">santcar7</a>
+ picoctf: <a href="https://play.picoctf.org/users/santiagocardoso" target="_blank">santiagocardoso</a>
 </pre>
 
 ```console
