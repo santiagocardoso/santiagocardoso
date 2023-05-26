@@ -9,7 +9,7 @@ santiago@ubuntu:~$ ls -a
  
 santiago@ubuntu:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
-ubuntu user
+ubuntu && kali user
 
 santiago@ubuntu:~$ cd projects/ && ls -a
 . .. animation.gif linguagens.png
