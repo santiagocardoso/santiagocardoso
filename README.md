@@ -1,20 +1,20 @@
 ```console
 # CTRL ALT T
 
-santiago@kali:~$ whoami
+santiago@ubuntu:~$ whoami
 santiago
 
-santiago@kali:~$ ls -a
-. .. aboutme.txt contacts.txt projects studies.txt .vimrc .zshrc
+santiago@ubuntu:~$ ls -a
+. .. aboutme.txt contacts.txt projects studies.txt .vimrc .bashrc
  
-santiago@kali:~$ cat aboutme.txt
+santiago@ubuntu:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
 ubuntu && kali user
 
-santiago@kali:~$ cd projects/ && ls -a
+santiago@ubuntu:~$ cd projects/ && ls -a
 . .. animation.gif linguagens.png
 
-santiago@kali:~/projects$ eog -f linguagens.png
+santiago@ubuntu:~/projects$ eog -f linguagens.png
 ```
 <pre>
  # ~/projects/linguagens.png
@@ -24,16 +24,17 @@ santiago@kali:~/projects$ eog -f linguagens.png
  
 ```console
 ^C
-santiago@kali:~$ cd ..
+santiago@ubuntu:~$ cd ..
 
-santiago@kali:~$ cat studies.txt
+santiago@ubuntu:~$ cat studies.txt
+ia
 competitive_programming
 cybersecurity
 linux
 
-santiago@kali:~$ echo blue team >> studies.txt
+santiago@ubuntu:~$ echo blue team >> studies.txt
 
-santiago@kali:~$ cat contacts.txt
+santiago@ubuntu:~$ cat contacts.txt
 ```
 
 <pre>
@@ -46,7 +47,7 @@ santiago@kali:~$ cat contacts.txt
 </pre>
 
 ```console
-santiago@kali:~$ cd projects/ && eog -f animation.gif
+santiago@ubuntu:~$ cd projects/ && eog -f animation.gif
 ```
 <pre>
  # ~/projects/animation.gif
@@ -56,8 +57,8 @@ santiago@kali:~$ cd projects/ && eog -f animation.gif
 
 ```console
 ^C
-santiago@kali:~/projects$ cd ~
-santiago@kali:~$ clear
+santiago@ubuntu:~/projects$ cd ~
+santiago@ubuntu:~$ clear
 
-santiago@kali:~$ exit▉
+santiago@ubuntu:~$ exit▉
 ```
