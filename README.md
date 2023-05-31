@@ -31,7 +31,7 @@ competitive_programming
 cybersecurity
 linux
 
-santiago@ubuntu:~$ echo ai >> studies.txt
+santiago@ubuntu:~$ echo artificial intelligence >> studies.txt
 
 santiago@ubuntu:~$ cat contacts.txt
 ```
