@@ -28,7 +28,6 @@ santiago@ubuntu:~$ cd ..
 
 santiago@ubuntu:~$ cat studies.txt
 competitive_programming
-cybersecurity
 linux
 
 santiago@ubuntu:~$ echo artificial intelligence >> studies.txt
