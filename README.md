@@ -56,6 +56,7 @@ santiago@ubuntu:~$ cd projects/ && eog -f animation.gif
 ```console
 ^C
 santiago@ubuntu:~/projects$ cd ~
+
 santiago@ubuntu:~$ clear
 
 santiago@ubuntu:~$ exit▉
