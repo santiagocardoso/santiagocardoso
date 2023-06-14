@@ -9,7 +9,7 @@ santiago@ubuntu:~$ ls -a
  
 santiago@ubuntu:~$ cat aboutme.txt
 Santiago Cardoso, 20y/o
-distros = {ubuntu, kali}
+distros[] = {ubuntu, kali}
 
 santiago@ubuntu:~$ cd projects/ && ls -a
 . .. animation.gif linguagens.png
