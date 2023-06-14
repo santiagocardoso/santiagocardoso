@@ -19,7 +19,8 @@ santiago@ubuntu:~/projects$ eog -f linguagens.png
 <pre>
  # ~/projects/linguagens.png
  <a href="https://github.com/santiagocardoso">
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocardoso&layout=compact&langs_count=7&theme=buefy"/>
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagocardoso&theme=tokyonight&hide_border=false"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocardoso&layout=compact&langs_count=7&theme=buefy&hide_border=false"/>
 </pre>
  
 ```console
