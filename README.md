@@ -5,8 +5,8 @@
 <div align="center">
 
   <a href="https://github.com/santiagocardoso">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagocardoso&theme=tokyonight&hide_border=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocardoso&layout=compact&langs_count=7&theme=tokyonight&hide_border=false"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagocardoso&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagocardoso&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
