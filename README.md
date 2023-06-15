@@ -9,6 +9,6 @@
 
 <div align="center">
 
-  </br> <img height="150" alt="scythe" src="https://media.discordapp.net/attachments/754344992394182667/1090302028359667852/Sprite-scythe_ani.gif?width=595&height=595"/>
+  <img height="150" alt="scythe" src="https://cdn.discordapp.com/attachments/754344992394182667/1118724568291483698/Sprite-scythe_ani.gif"/>
 
 </div>
