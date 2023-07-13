@@ -97,7 +97,6 @@ autocmd! CursorHold,CursorHoldI * call HighlightWordUnderCursor()
 colorscheme catppuccin_macchiato
 let g:airline_theme = 'catppuccin_macchiato'
 " -=-=- AirLine -=-=-
-"let g:airline_theme = 'sonokai'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
 " -=-=- NerdTree -=-=-
