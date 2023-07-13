@@ -17,7 +17,7 @@ filetype plugin on
 filetype indent on
 :colorscheme default 
 
-" -=-=-=-=-=-=-=-=-=- settings -=-=-=-=-=-=-=-=-=- 
+" -=-=- settings -=-=-
 set nu
 set relativenumber
 set tabstop=4
@@ -48,7 +48,7 @@ set laststatus=2
 set showmatch
 set clipboard=unnamedplus
 
-" -=-=-=-=-=-=-=-=-=- remaps -=-=-=-=-=-=-=-=-=- 
+" -=-=- remaps -=-=-
 " shortcuts for split navigation
 map <C-h> <C-w>h
 map <C-j> <C-w>j
@@ -83,7 +83,7 @@ nmap tt :q<CR>
 
 " call command shortcut
 nmap tc :!
-" -=-=-=-=-=-=-=-=-=- autocmds -=-=-=-=-=-=-=-=-=- 
+" -=-=- autocmds -=-=- 
 function! HighlightWordUnderCursor()
     if getline(".")[col(".")-1] !~# '[[:punct:][:blank:]]'
         exec 'match' 'Search' '/\V\<'.expand('<cword>').'\>/'
@@ -93,13 +93,13 @@ function! HighlightWordUnderCursor()
 endfunction
 
 autocmd! CursorHold,CursorHoldI * call HighlightWordUnderCursor()
-" -=-=-=-=-=-=-=-=-=- themes -=-=-=-=-=-=-=-=-=- 
+" -=-=- themes -=-=-
 colorscheme catppuccin_macchiato
 let g:airline_theme = 'catppuccin_macchiato'
-" -=-=-=-=-=-=-=-=-=- AirLine -=-=-=-=-=-=-=-=-=- 
+" -=-=- AirLine -=-=-
 "let g:airline_theme = 'sonokai'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
-" -=-=-=-=-=-=-=-=-=- NerdTree -=-=-=-=-=-=-=-=-=- 
+" -=-=- NerdTree -=-=-
 nmap <C-a> :NERDTreeToggle<CR>
 
