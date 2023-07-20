@@ -17,11 +17,10 @@ filetype plugin on
 filetype indent on
 :colorscheme default 
 
-" -=-=- settings -=-=-
+" -=-=- settings -=-=- 
 set nu
 set relativenumber
 set tabstop=4
-set softtabstop=4
 set shiftwidth=4
 set expandtab
 set smarttab
@@ -48,21 +47,10 @@ set laststatus=2
 set showmatch
 set clipboard=unnamedplus
 
-" -=-=- remaps -=-=-
-" shortcuts for split navigation
-map <C-h> <C-w>h
-map <C-j> <C-w>j
-map <C-k> <C-w>k
-map <C-l> <C-w>l
-
+" -=-=- remaps -=-=- 
 " open code ambient
 nnoremap <F1> :r ~/projects/bib/cp.cpp<Return>kdd14jo
 nnoremap <F2> :r ~/projects/bib/code.c<Return>kdd3jo
-
-" adding an empty line below, above and below with insert
-nmap op o<Esc>k
-nmap oi O<Esc>j
-nmap oo A<CR>
 
 " create a tab
 nmap te :tabe<CR>
@@ -81,8 +69,6 @@ nmap tv :vsplit<CR>
 " close splits and others
 nmap tt :q<CR>
 
-" call command shortcut
-nmap tc :!
 " -=-=- autocmds -=-=- 
 function! HighlightWordUnderCursor()
     if getline(".")[col(".")-1] !~# '[[:punct:][:blank:]]'
@@ -93,12 +79,15 @@ function! HighlightWordUnderCursor()
 endfunction
 
 autocmd! CursorHold,CursorHoldI * call HighlightWordUnderCursor()
-" -=-=- themes -=-=-
+
+" -=-=- themes -=-=- 
 colorscheme catppuccin_macchiato
 let g:airline_theme = 'catppuccin_macchiato'
-" -=-=- AirLine -=-=-
+
+" -=-=- AirLine -=-=- 
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
-" -=-=- NerdTree -=-=-
+
+" -=-=- NerdTree -=-=- 
 nmap <C-a> :NERDTreeToggle<CR>
 
