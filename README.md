@@ -8,4 +8,3 @@
   <a href="https://main--santiago-cardoso-portfolio.netlify.app/" target="_blank"> <img height="150" alt="scythe" src="https://cdn.discordapp.com/attachments/754344992394182667/1118765773574389760/Sprite-scythe_ani.gif"/> </a>
  
 </div>
-
